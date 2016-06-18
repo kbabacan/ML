@@ -1,0 +1,9 @@
+c:\users\ekeskin\documents\visual studio 2013\Projects\ML-2\ML-2\bin\Debug\ML-2.exe.config
+c:\users\ekeskin\documents\visual studio 2013\Projects\ML-2\ML-2\bin\Debug\ML-2.exe
+c:\users\ekeskin\documents\visual studio 2013\Projects\ML-2\ML-2\bin\Debug\ML-2.pdb
+c:\users\ekeskin\documents\visual studio 2013\Projects\ML-2\ML-2\obj\Debug\ML-2.csprojResolveAssemblyReference.cache
+c:\users\ekeskin\documents\visual studio 2013\Projects\ML-2\ML-2\obj\Debug\ML_2.Form1.resources
+c:\users\ekeskin\documents\visual studio 2013\Projects\ML-2\ML-2\obj\Debug\ML_2.Properties.Resources.resources
+c:\users\ekeskin\documents\visual studio 2013\Projects\ML-2\ML-2\obj\Debug\ML-2.csproj.GenerateResource.Cache
+c:\users\ekeskin\documents\visual studio 2013\Projects\ML-2\ML-2\obj\Debug\ML-2.exe
+c:\users\ekeskin\documents\visual studio 2013\Projects\ML-2\ML-2\obj\Debug\ML-2.pdb
